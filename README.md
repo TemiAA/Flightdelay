@@ -1,5 +1,5 @@
 # Flight Delay Classification 
-Performance evaluation of Machine Learning / Deep Learning on classification tasks
+Performance evaluation of Machine Learning 
 
 One of the most daunting tasks with machine learning and deep learning is determining the best relationship between methods
 and their suitability with a given data preprocessing for best performance during classification or prediction task with a given dataset. 
